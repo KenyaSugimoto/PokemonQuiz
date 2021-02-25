@@ -1,2 +1,4 @@
-# hackathon-ot-A
-[![Gitter](https://badges.gitter.im/2020A-hackathon-ot-A/community.svg)](https://gitter.im/2020A-hackathon-ot-A/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+# ポケモンクイズ
+![PokemonQuiz](https://user-images.githubusercontent.com/45161125/109232434-abf70c80-780b-11eb-9de6-4dff0c76e3de.gif)
+
+
